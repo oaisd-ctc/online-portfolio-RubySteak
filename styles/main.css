@@ -1,5 +1,113 @@
-.bodyClass{
+header{
+    display: grid;
+    background-color: #0B0E14;
+    margin: -8px;
+    color: #ffffff;
+}
 
-    backround-color: #0B0E14;
+#grid-item-2{
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+#grid-item-3-folder{
+    display: grid;
+    grid-template-columns: 1.2fr 1.5fr 1.2fr 2fr;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: end;
+}
+
+#grid-item-3-folder > div{
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    font-family: "zelda-script";
+    background-color: #0B0E14;
+}
+
+main{
+    color: #ffffff;
+}
+    
+#main-container{
+    margin: auto;
+    margin-left: 21%;
+    margin-right: 21%;
+    letter-spacing: 0.7px;
+}
+    
+#main-container-2{
+    display: grid;
+    text-align: center;
+    letter-spacing: 0.7px;
+    margin-left: -20px;
+    margin-right: -20px;
+    background-color: #2d2e30;
+}
+    
+.main-container-3{
+    margin-left: 500px;
+}
+    
+#main-container-4{
+    margin-left: auto;
+    margin-right: auto;
+    outline: solid black;
+}
+    
+.grey-line{
+    background-color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+    
+#timeline_box1{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20.5%;
+    margin-right: 20.5%;
+    background-color: #0B0E14;
+}
+
+#timeline_box2{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20.5%;
+    margin-right: 20.5%;
+    background-color: #0B0E14;
+}
+
+#timeline_box3{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20.5%;
+    margin-right: 20.5%;
+    background-color: #0B0E14;
+}
+
+#timeline_box4{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20.5%;
+    margin-right: 20.5%;
+    background-color: #0B0E14;
+}
+
+#container-3-1{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 0%;
+    margin-right: 0%;
+    outline: solid black;
 }
