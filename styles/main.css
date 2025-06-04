@@ -57,7 +57,10 @@ main{
 }
     
 .main-container-3{
-    margin-left: 500px;
+    text-align: center;
+    margin-right: 52%;
+    font-size: 30px;
+    font-weight: bold;
 }
     
 #main-container-4{
@@ -111,3 +114,4 @@ main{
     margin-right: 0%;
     outline: solid black;
 }
+
